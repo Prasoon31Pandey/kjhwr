@@ -16,3 +16,6 @@ Live app: <ADD LINK>
 
 ## Key assumption
 Decision cutoff = 09:00 UTC on D-1 (configurable in UI; GB day-ahead gate closure ≈ 09:20 UK time). Forecast per target slot = latest publishTime ≤ cutoff.
+
+
+  final link - https://kjhwr-ppzf.onrender.com/
