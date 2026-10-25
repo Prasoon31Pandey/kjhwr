@@ -12,7 +12,7 @@ Dev: `cd backend && pip install -r requirements.txt && uvicorn main:app --reload
 
 ## Deploy
 Vercel does not run Docker; use Heroku (`heroku stack:set container`, `heroku container:push web`) or Render/Fly.
-Live app: <ADD LINK>
+Live app: <https://kjhwr-ppzf.onrender.com/>
 
 ## Key assumption
 Decision cutoff = 09:00 UTC on D-1 (configurable in UI; GB day-ahead gate closure ≈ 09:20 UK time). Forecast per target slot = latest publishTime ≤ cutoff.
